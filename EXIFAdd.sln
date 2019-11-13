@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EXIFAdd", "EXIFAdd\EXIFAdd.csproj", "{B5F45739-40EB-4181-965D-C773F71937EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5F45739-40EB-4181-965D-C773F71937EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F45739-40EB-4181-965D-C773F71937EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F45739-40EB-4181-965D-C773F71937EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F45739-40EB-4181-965D-C773F71937EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {262F8BC9-0BB8-44B2-BDA6-354219AEFE5F}
+	EndGlobalSection
+EndGlobal
